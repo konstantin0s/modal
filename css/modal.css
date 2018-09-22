@@ -43,3 +43,9 @@ body {
   float: right;
   font-size: 30px;
 }
+
+.closeBtn:hover, .closeBtn:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
